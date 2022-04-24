@@ -1,0 +1,59 @@
+@media only screen and (min-width: 990px) {
+  .first-slide h1 {
+    align-items: center;
+    margin-top: 30vh;
+  }
+
+  .first-slide img {
+    width: 110%;
+  }
+ 
+}
+
+
+
+@media only screen and (max-width: 990px) {
+*
+{
+  
+}
+  .first-slide-image {
+    display: none;
+  }
+
+  .media img {
+    width: 25%;
+
+
+  }
+  .media
+  {
+   
+    left:15%;
+    border-radius: 10px 0 10px 0;
+  }
+  .foot img
+  {
+    width: 100%;
+  }
+  .login-image
+  {
+    display: none;
+  }
+  .login-from-control input
+  {
+    width: 80%;
+  }
+  .form-check-label
+  {
+    width: 50px; 
+    height: 25px;   
+  }
+  .card-mon 
+  {
+    
+    margin-bottom: 80PX;
+    
+  }
+
+}
